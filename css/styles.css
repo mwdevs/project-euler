@@ -1,0 +1,10 @@
+button {
+
+  	display: inline;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    cursor: pointer;
+    text-align: center;
+    margin: 5px 5px;
+}
